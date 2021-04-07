@@ -1,0 +1,2 @@
+body
+color: #f6f9f9
